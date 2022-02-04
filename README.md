@@ -12,7 +12,7 @@ I'm Stephanie, a Fullstack Javascript Developer, with a preference for front-end
   <img src="icons/node.png" height="32" alt="nodejs" title="NodeJS">
   <img src="icons/postgresql.png" height="32" alt="postgresql" title="PostgreSQL">
   <img src="icons/sass.png" height="32" alt="sass" title="Sass">
-  <img src="icons/heroku.png" height="32" alt="heroku" title="Heroku>
+  <img src="icons/heroku.png" height="32" alt="heroku" title="Heroku">
 </div>
 
 ### Stats
